@@ -1,0 +1,10 @@
+src > layout > dashboard > index.js  --> functin Dashboard
+
+src > layout > dashboard > data > reportsBarChartData.js
+
+src > examples > Chart > BarCharts > ReportBarChart > index.js
+
+src > examples > Chart > BarCharts > ReportBarChart 
+
+NODE FILE :
+server.js
