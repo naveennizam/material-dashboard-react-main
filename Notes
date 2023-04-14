@@ -1,0 +1,3 @@
+Ref forwarding is a technique for automatically passing a ref through a component to one of its children.
+
+ PropTypes are simply a mechanism that ensures that the passed value is of the correct datatype
